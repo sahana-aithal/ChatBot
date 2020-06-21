@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+        <meta charset="UTF-8">
+        <title>Chatbot</title>
+        <link href="./static/lib/css/bootstrap.min.css" rel="stylesheet">
+        <link href="./static/lib/css/font-awesome.min.css" rel="stylesheet">
+        <link href="./static/css/style.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+        <script src="/static/lib/js/jquery-3.2.0.js"></script>
+        <script src="/static/lib/js/bootstrap.min.js"></script>
+        <script src="/static/js/aja.js"></script>
+
+        <!--<link href="./static/css/speech.css" rel="stylesheet">-->
+    </head>
+     <link rel="shortcut icon" href="chatbot.png" type="image/x-icon">
+    <title>ChatBot</title>
+    <body>
+        <div class="container">
+            <div class="row">
+                <h1 class="text-center">ChatBot</h1>
+
+                <div class="col-md-12">
+                    <div id="chatPanel" class="panel panel-info">
+                        <div class="panel-heading">
+                            <strong><span class="glyphicon glyphicon-time"></span> Chat History</strong>
+                        </div>
+                        <div class="panel-body fixed-panel" id="MyDivName">
+                            <ul class="media-list">
+                                <script>
+                                       setTimeout("greet()", 1500);
+                                       $("#chatbot-form").prop('disabled', true);
+
+                                        function greet()
+                                        {
+                                            $(".media-list").append('<li class="media"><div class="media-body"><div class="media"><div class="media-body">'  + "Bot: Hello!" + '<hr/></div></div></div></li>');
+                                        };
+
+                                        setTimeout("req()", 2500);
+		                                function req()
+		                                {
+		                                    $(".media-list").append('<li class="media"><div class="media-body"><div class="media"><div class="media-body">'  + "Bot: If it’s okay with you, we’ll need to collect a little bit of additional information before we proceed." + '<hr/></div></div></div></li>');
+		                                }
+
+                                        setTimeout("name()", 3500);
+		                                function name()
+		                                {
+		                                    $(".media-list").append('<li class="media"><div class="media-body"><div class="media"><div class="media-body">'  + "Bot: May I know your name?" + '<hr/></div></div></div></li>');
+		                                }
+		                                $("#chatbot-form").prop('disabled', True);
+                                </script>
+                            </ul>
+                        </div>
+                        <div class="panel-footer">
+                            <form method="post" id="chatbot-form">
+
+                                <div class="input-group">
+                                    <input type="text" class="form-control" placeholder="Enter Message" name="messageText" id="messageText" autofocus/>
+                                    <span class="input-group-btn">
+                                        <button class="btn btn-info" type="button" id="chatbot-form-btn">SEND <span class="glyphicon glyphicon-send"></span></button>
+                                    </span>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </body>
+</html>
