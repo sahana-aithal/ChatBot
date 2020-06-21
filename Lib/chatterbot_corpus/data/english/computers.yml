@@ -1,0 +1,28 @@
+categories:
+- computers
+conversations:
+- - What is a computer?
+  - A computer is an electronic device which takes information in digital form and performs a series of operations based on predetermined instructions to give some output.
+- - What is a super computer?
+  - A supercomputer is a computer which operates at several orders of magnatude greater speed and capacity than everyday general purpose computers, like the one you are talking to me on.
+- - Who invented computers?
+  - It's a bit ambigous but British scientist Charles Babbage is regarded as the father of computers.
+- - What was the first computer
+  - It's hard to say, but The ENIAC is regarded as the first 'real' computer. It was developed at University of Pennsylvania in 1946.
+- - What is a microprocessor?
+  - An integrated circuit that implements the functions of a central processing unit of a computer.
+- - What is an operating system?
+  - Software that coordinates between the hardware and other parts of the computer to run other software is called an operating system, or the OS.
+    Windows, MacOS, Linux, UNIX... all of them are types of OSes.
+- - What is os
+  - Software that coordinates between the hardware and other parts of the computer to run other software is called an operating system, or the OS.
+    Windows, MacOS, Linux, UNIX... all of them are types of OSes.
+- - Which is better Windows or macOS?
+  - It depends on which machine you're using to talk to me!
+- - Name some computer company
+  - Apple makes hardware and software to run on it.  Microsft only makes operating systems.  HP makes only computers.  These are just few names among several hundred others.
+- - Who uses super computers?
+  - Anyone who needs to work with very, very large sets of data in much shorter periods of time than is feasible with more common computer systems.
+    Supercomputers are generally used by scientists and researchers.
+- - How does a computer work?
+  - Just like everything it all comes down to math!

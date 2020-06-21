@@ -1,0 +1,150 @@
+conversations:
+- - sign in
+  - You can login by clicking on the "Login" link at the top right corner of the homepage. Please provide your valid login credentials and log in.
+
+- - not able to login
+  - You can login by clicking on the "Login" link at the top right corner of the homepage. Please provide your valid login credentials and log in.
+
+- - how to log in
+  - You can login by clicking on the "Login" link at the top right corner of the homepage. Please provide your valid login credentials and log in.
+
+- - not able to sign in
+  - You can login by clicking on the "Login" link at the top right corner of the homepage. Please provide your valid login credentials and log in.
+
+- - sign up
+  - You can register by clicking on the "http://proxime.kardex.co/signup" link. Please provide the information in the form that appears, verify the OTP and submit the registration information.
+
+- - register
+  - You can register by clicking on the "http://proxime.kardex.co/signup" link. Please provide the information in the form that appears, verify the OTP and submit the registration information.
+
+- - signup
+  - You can register by clicking on the "http://proxime.kardex.co/signup" link. Please provide the information in the form that appears, verify the OTP and submit the registration information.
+
+- - not able to register
+  - You can register by clicking on the "http://proxime.kardex.co/signup" link. Please provide the information in the form that appears, verify the OTP and submit the registration information.
+
+- - not able to sign up
+  - You can register by clicking on the "http://proxime.kardex.co/signup" link. Please provide the information in the form that appears, verify the OTP and submit the registration information.
+
+- - forgot password
+  - Sure, You can simply select forgot password via phone and then you will have to verify the OTP or place a request via email. Reset password link will be sent across to your registered mailing address held on record with the ProxiME.
+
+- - cant remember password
+  - Sure, You can simply select forgot password via phone and then you will have to verify the OTP or place a request via email. Reset password link will be sent across to your registered mailing address held on record with the ProxiME.
+
+- - change email id
+  - Sure, You can update your Email ID in 2 simple steps :-
+    1) Login to ProxiME and go to User Profile Page and now click on edit against the Email id and update your email id. A verification link will be sent across to your updated mail ID.
+    2) Verify and confirm the links and then login again.Your email ID will be updated with us.
+
+- - change phone no
+  - Sure, I can help you with that. You can update your Phone number  in 3 simple steps :-
+    1) Login to ProxiME and goto User Profile Page now click on edit against the Phone and update your phone number. An OTP will be sent across to your updated Phone number.
+    2) Verify the OTP.
+    3) Your Phone number will be updated with us.
+
+- - why isnt my device showing on the map
+  - If the first time the device is turned on, it can take up to 30 minutes for its global position to be calculated. Once operational, the sequence of fixing on the satellite signals will be much shorter.
+
+- - my device isnt tracking, whats wrong
+  - If the first time the device is turned on, it can take up to 30 minutes for its global position to be calculated. Once operational, the sequence of fixing on the satellite signals will be much shorter.
+
+- - i charged my device but it isnt tracking. whats wrong?
+  - If you charged your device after its battery died then you will need to power it back on as the device powered off when the battery died.
+
+- - why is proxime site not loading properly
+  - This could be a compatibility issue with the web browser version that you are using to view ProxiME. We have optimized our ProxiME application to display best on the most widely used and updated web browsers.
+
+- - why is some information not displaying on the website
+  - This could be a compatibility issue with the web browser version that you are using to view ProxiME. We have optimized our ProxiME application to display best on the most widely used and updated web browsers.
+
+- - reset
+  - Sure, what do you want to reset? Email? or Phone number?
+
+- - how to reset
+  - Sure, what do you want to reset? Email? or Phone number?
+
+- - phone num
+  - You can update your Phone number  in 3 simple steps :-
+    1) Login to ProxiME and goto User Profile Page now click on edit against the Phone and update your phone number. An OTP will be sent across to your updated Phone number.
+    2) Verify the OTP.
+    3) Your Phone number will be updated with us.
+
+- - email
+  - You can update your Email ID in 4 simple steps :-
+    1) Login to ProxiME and goto User Profile Page.
+    2) Click on edit against the Email id and update your email id.
+    3) A verification link will be sent across to your updated mail id.
+    4) Verify and confirm the links and then login again. Your email ID will be updated with us.
+
+- - emailid
+  - You can update your Email ID in 4 simple steps :-
+    1) Login to ProxiME and goto User Profile Page.
+    2) Click on edit against the Email id and update your email id.
+    3) A verification link will be sent across to your updated mail id.
+    4) Verify and confirm the links and then login again. Your email ID will be updated with us.
+
+- - email id
+  - You can update your Email ID in 4 simple steps :-
+    1) Login to ProxiME and goto User Profile Page.
+    2) Click on edit against the Email id and update your email id.
+    3) A verification link will be sent across to your updated mail id.
+    4) Verify and confirm the links and then login again. Your email ID will be updated with us.
+
+- - reset email id 
+  - You can update your Email ID in 4 simple steps :-
+    1) Login to ProxiME and goto User Profile Page.
+    2) Click on edit against the Email id and update your email id.
+    3) A verification link will be sent across to your updated mail id.
+    4) Verify and confirm the links and then login again. Your email ID will be updated with us.
+
+- - reset phone num 
+  - You can update your Phone number  in 3 simple steps :-
+    1) Login to ProxiME and goto User Profile Page now click on edit against the Phone and update your phone number. An OTP will be sent across to your updated Phone number.
+    2) Verify the OTP.
+    3) Your Phone number will be updated with us.
+
+
+- - reset password
+  - If you want to reset your password, you can simply select forgot password via phone.
+    Then you will have to verify the OTP or place a request via email.
+    Reset password link will be sent across to your registered mailing address held on record with the ProxiME.
+
+- - ok
+  - Is there anything else I can help you with?
+
+- - thanks
+  - Is there anything else I can help you with?
+
+- - okay
+  - Is there anything else I can help you with?
+
+- - bye
+  - Is there anything else I can help you with?
+
+- - thank you
+  - Is there anything else I can help you with?
+
+- - ok bye
+  - Is there anyting else I can help you with?
+
+- - ya
+  - How may I help you?
+
+- - yep
+  - How may I help you?
+
+- - ye
+  - How may I help you?
+
+- - website loading problem
+  - This could be a compatibility issue with the web browser version that you are using to view ProxiME. We have optimized our ProxiME application to display best on the most widely used and updated web browsers.
+
+- - site loading problem
+  - This could be a compatibility issue with the web browser version that you are using to view ProxiME. We have optimized our ProxiME application to display best on the most widely used and updated web browsers.
+
+- - problem
+  - What problem are you facing exactly?
+
+- - awesome
+  - Right!   
